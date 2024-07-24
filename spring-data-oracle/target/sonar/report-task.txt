@@ -1,0 +1,6 @@
+projectKey=spring-test
+serverUrl=https://dbsonar.vinsys.live
+serverVersion=9.1.0.47736
+dashboardUrl=https://dbsonar.vinsys.live/dashboard?id=spring-test
+ceTaskId=AZDkmyb1Sy3-q8S3cehv
+ceTaskUrl=https://dbsonar.vinsys.live/api/ce/task?id=AZDkmyb1Sy3-q8S3cehv
